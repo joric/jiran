@@ -1,5 +1,8 @@
 # Jiran Keyboard
+
 Jiran keyboard - is a ergo split keyboard.
+
+This is archived copy. Actual version is at https://github.com/Ladniy/jiran-keyboard
 
 ## Downloads
 
